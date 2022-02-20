@@ -1,3 +1,5 @@
+Case Study 1:
+
 Smart Automatic Camera:
 Automatic Cameras commonly used as reflex cameras were manually operated and electronics made it a smart system.
 
@@ -48,3 +50,11 @@ LLR3 HLR3	By evaluating the sensors
 LLR4 HLR4	By using Exposure sensor 
 
 
+
+Case Study 2: 
+
+Washing Machine
+
+
+
+![Washing machine](https://user-images.githubusercontent.com/42509899/154859124-b9b3edaf-02c0-463e-b505-423a19b87277.png)
